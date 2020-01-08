@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Louis Filstroff, Ph.D. student in statistical learning"
+title                    : "Louis Filstroff, researcher in statistical learning"
 title_separator          : "-"
 name                     : "Louis Filstroff"
 description              : "Personal webpage of Louis Filstroff"
@@ -92,7 +92,7 @@ analytics:
 author:
   name             : "Louis Filstroff"
   avatar           : "/assets/images/pp.jpg"
-  bio              : "Ph.D. student"
+  bio              : "Researcher"
   location         : "Toulouse"
   email            :
   uri              :
