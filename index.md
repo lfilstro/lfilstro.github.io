@@ -6,7 +6,7 @@ title: Welcome !
 
 ## About me
 
-I am currently as a postdoctoral researcher within the [PML group](https://research.cs.aalto.fi/pml/) of Aalto University, working under the supervision of Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski).
+I recently (June 2020) started as a postdoctoral researcher within the [PML] group (https://research.cs.aalto.fi/pml/) of Aalto University, working under the supervision of Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski).
 
 Before that, I was a Ph.D. student within the [SC](http://sc.enseeiht.fr/) group of [IRIT](http://www.irit.fr) (Institut de Recherche en Informatique de Toulouse). I was working under the supervision of [Cédric Févotte](http://www.irit.fr/~Cedric.Fevotte), and was a member of the [FACTORY](http://projectfactory.irit.fr/index.html) ERC project. My defense took place on Nov. 13, 2019.
 

@@ -32,3 +32,14 @@ code (coming soon)
 1. A. Lumbreras, **L. Filstroff** and C. Févotte <br/>
 "Bayesian Mean-parameterized Nonnegative Binary Matrix Factorization" <br/>
 Dec. 2018, preprint available on [arXiv](https://arxiv.org/abs/1812.06866)
+
+2. **L. Filstroff**, O. Gouvert, C. Févotte and O. Cappé <br/>
+"A Comparative Study of Temporal Non-Negative Matrix Factorization with Gamma Markov Chains" <br/>
+Jun. 2020, preprint available on [arXiv](https://arxiv.org/abs/2006.12843)
+
+## Theses
+
+1. **L. Filstroff** <br/>
+"Contributions to probabilistic non-negative matrix factorization - Maximum marginal likelihood estimation and Markovian temporal models" <br/>
+Ph.D. Thesis, Institut National Polytechnique de Toulouse, 2019. <br/>
+[pdf](https://oatao.univ-toulouse.fr/25586/1/Filstroff_Louis.pdf)
