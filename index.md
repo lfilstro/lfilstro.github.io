@@ -6,13 +6,13 @@ title: Welcome !
 
 ## About me
 
-I was (until very recently) a Ph.D. student within the [SC](http://sc.enseeiht.fr/) group of [IRIT](http://www.irit.fr) (Institut de Recherche en Informatique de Toulouse). I was working under the supervision of [Cédric Févotte](http://www.irit.fr/~Cedric.Fevotte), and was a member of the [FACTORY](http://projectfactory.irit.fr/index.html) project. My defense took place on Nov. 13, 2019.
+Since June 2020, I am a postdoctoral researcher within the [PML group](https://research.cs.aalto.fi/pml/) of Aalto University, working under the supervision of Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski).
 
-I am currently looking for a postdoctoral position.
+Before that, I was a Ph.D. student within the [SC](http://sc.enseeiht.fr/) group of [IRIT](http://www.irit.fr) (Institut de Recherche en Informatique de Toulouse). I was working under the supervision of [Cédric Févotte](http://www.irit.fr/~Cedric.Fevotte), and was a member of the [FACTORY](http://projectfactory.irit.fr/index.html) ERC project. My defense took place on Nov. 13, 2019.
 
 ## Short bio
 
-I graduated from École Centrale de Lille and from Université Lille 1 in Sept. 2015. I then worked as research engineer within the [SIGMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) group of [CRIStAL](https://www.cristal.univ-lille.fr), with [Patrick Bas](http://patrickbas.ec-lille.fr/Patrick_Bas_home_page/Home_Page.html). I was as a Ph.D. student between Sept. 2016 and Nov. 2019.
+I graduated from École Centrale de Lille and from Université Lille 1 in Sept. 2015. I then worked as a research engineer within the [SIGMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) group of [CRIStAL](https://www.cristal.univ-lille.fr), with [Patrick Bas](http://patrickbas.ec-lille.fr/Patrick_Bas_home_page/Home_Page.html). I was as a Ph.D. student between Sept. 2016 and Nov. 2019.
 
 ## Research interests
 * Statistical and machine learning
