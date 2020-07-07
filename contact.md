@@ -5,9 +5,7 @@ title: Contact me
 ---
 
 ### e-mail
-firstname.lastname [at] irit.fr <br/>
+firstname.lastname [at] aalto.fi <br/>
 
 ### Physical address
-Office F418 @ ENSEEIHT <br/>
-2 rue Charles Camichel <br/>
-31000 Toulouse <br/>
+Working from home!

@@ -92,8 +92,8 @@ analytics:
 author:
   name             : "Louis Filstroff"
   avatar           : "/assets/images/pp.jpg"
-  bio              : "Researcher"
-  location         : "Toulouse"
+  bio              : "Postdoctoral Researcher"
+  location         : "Helsinki"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
