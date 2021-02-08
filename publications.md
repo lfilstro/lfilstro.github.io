@@ -6,22 +6,36 @@ title: Publications
 
 [Google scholar profile](https://scholar.google.fr/citations?user=fz8rPgUAAAAJ)
 
+## International journal papers
+
+1. A. Lumbreras, **L. Filstroff**, and C. Févotte.
+"Bayesian Mean-parameterized Nonnegative Binary Matrix Factorization" <br/>
+*Data Mining and Knowledge Discovery*, vol. 34, no. 6, 2020. <br/>
+[pdf](https://arxiv.org/abs/1812.06866),
+[doi](https://doi.org/10.1007/s10618-020-00712-w)
+
+2. **L. Filstroff**, O. Gouvert, C. Févotte, and O. Cappé <br/>
+"A Comparative Study of Gamma Markov Chains for Temporal Non-Negative Matrix Factorization" <br/>
+*IEEE Transactions on Signal Processing*, 2021 (To Appear). <br/>
+[pdf](https://arxiv.org/abs/2006.12843),
+code,
+doi
+
 ## International conference papers
 
-1. **L. Filstroff**, A. Lumbreras and C. Févotte <br/>
+1. **L. Filstroff**, A. Lumbreras, and C. Févotte <br/>
 "Closed-form Marginal Likelihood in Gamma-Poisson matrix factorization" <br/>
 *International Conference on Machine Learning (ICML)*, 2018. <br/>
 [pdf](../pdf/filstroff2018ICML.pdf),
 [bibtex](../bib/filstroff2018ICML.bib),
-code (coming soon)
+code
 
-2. T. Taburet, **L. Filstroff**, P. Bas, W. Sawaya <br/>
+2. T. Taburet, **L. Filstroff**, P. Bas, and W. Sawaya <br/>
 "An Empirical Study of Steganography and Steganalysis of Color Images in the JPEG Domain" <br/>
 *International Workshop on Digital Forensics and Watermarking (IWDW)*, 2018. <br/>
 [pdf](../pdf/taburet2018IWDW.pdf),
-[bibtex](../bib/taburet2018IWDW.bib)
 
-3. R. Xia, V.Y.F. Tan, **L. Filstroff** and C. Févotte <br/>
+3. R. Xia, V.Y.F. Tan, **L. Filstroff**, and C. Févotte <br/>
 "A Ranking Model Motivated by Nonnegative Matrix Factorization with Applications to Tennis Tournaments" <br/>
 *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
 (ECML-PKDD)*, 2019. <br/>
@@ -29,13 +43,7 @@ code (coming soon)
 
 ## Submitted papers
 
-1. A. Lumbreras, **L. Filstroff** and C. Févotte <br/>
-"Bayesian Mean-parameterized Nonnegative Binary Matrix Factorization" <br/>
-Dec. 2018, preprint available on [arXiv](https://arxiv.org/abs/1812.06866)
-
-2. **L. Filstroff**, O. Gouvert, C. Févotte and O. Cappé <br/>
-"A Comparative Study of Temporal Non-Negative Matrix Factorization with Gamma Markov Chains" <br/>
-Jun. 2020, preprint available on [arXiv](https://arxiv.org/abs/2006.12843)
+(None at the moment.)
 
 ## Theses
 
