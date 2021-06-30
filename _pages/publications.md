@@ -1,6 +1,8 @@
 ---
 layout: single
+classes: wide
 author_profile: true
+permalink : /publications/
 title: Publications
 ---
 
@@ -8,7 +10,7 @@ title: Publications
 
 ## International journal papers
 
-1. A. Lumbreras, **L. Filstroff**, and C. Févotte.
+1. A. Lumbreras, **L. Filstroff**, and C. Févotte <br/>
 "Bayesian Mean-parameterized Nonnegative Binary Matrix Factorization" <br/>
 *Data Mining and Knowledge Discovery*, vol. 34, no. 6, 2020. <br/>
 [pdf](https://arxiv.org/abs/1812.06866),
@@ -16,34 +18,36 @@ title: Publications
 
 2. **L. Filstroff**, O. Gouvert, C. Févotte, and O. Cappé <br/>
 "A Comparative Study of Gamma Markov Chains for Temporal Non-Negative Matrix Factorization" <br/>
-*IEEE Transactions on Signal Processing*, 2021 (To Appear). <br/>
+*IEEE Transactions on Signal Processing*, vol. 69, 2021. <br/>
 [pdf](https://arxiv.org/abs/2006.12843),
-code,
-doi
+[code](https://github.com/lfilstro/TemporalNMF),
+[doi](https://doi.org/10.1109/TSP.2021.3060000)
 
 ## International conference papers
 
 1. **L. Filstroff**, A. Lumbreras, and C. Févotte <br/>
 "Closed-form Marginal Likelihood in Gamma-Poisson matrix factorization" <br/>
 *International Conference on Machine Learning (ICML)*, 2018. <br/>
-[pdf](../pdf/filstroff2018ICML.pdf),
-[bibtex](../bib/filstroff2018ICML.bib),
-code
+[pdf](../assets/pdfs/filstroff2018ICML.pdf),
+[code]()
 
 2. T. Taburet, **L. Filstroff**, P. Bas, and W. Sawaya <br/>
 "An Empirical Study of Steganography and Steganalysis of Color Images in the JPEG Domain" <br/>
 *International Workshop on Digital Forensics and Watermarking (IWDW)*, 2018. <br/>
-[pdf](../pdf/taburet2018IWDW.pdf),
+[pdf](../assets/pdfs/taburet2018IWDW.pdf)
 
 3. R. Xia, V.Y.F. Tan, **L. Filstroff**, and C. Févotte <br/>
 "A Ranking Model Motivated by Nonnegative Matrix Factorization with Applications to Tennis Tournaments" <br/>
 *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
 (ECML-PKDD)*, 2019. <br/>
-[pdf](../pdf/xia2019ECMLPKDD.pdf)
+[pdf](../assets/pdfs/xia2019ECMLPKDD.pdf)
 
 ## Submitted papers
 
-(None at the moment.)
+1. **L. Filstroff**, I. Sundin, P. Mikkola, A. Tiulpin, J. Kylmäoja, and S. Kaski <br/>
+"Targeted Active Learning for Bayesian Decision-Making" <br/>
+*Submitted*, May 2021. <br/>
+[arXiv](https://arxiv.org/abs/2106.04193)
 
 ## Theses
 

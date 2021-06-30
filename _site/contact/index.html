@@ -1,25 +1,30 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.10.1 by Michael Rose
-  Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.23.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
 <html lang="en" class="no-js">
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Contact me - Louis Filstroff, researcher in statistical learning</title>
+<!-- begin _includes/seo.html --><title>Contact me - Louis Filstroff</title>
 <meta name="description" content="Personal webpage of Louis Filstroff">
 
+
+  <meta name="author" content="Louis Filstroff">
+  
 
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Louis Filstroff, researcher in statistical learning">
+<meta property="og:site_name" content="Louis Filstroff">
 <meta property="og:title" content="Contact me">
 <meta property="og:url" content="http://localhost:4000/contact/">
 
+
+  <meta property="og:description" content="Personal webpage of Louis Filstroff">
 
 
 
@@ -41,18 +46,16 @@
 
 
 
-
-
-
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
       "@type": "Person",
       "name": "Louis Filstroff",
-      "url": "http://localhost:4000",
-      "sameAs": null
-    }
-  </script>
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
 
 
 
@@ -63,11 +66,11 @@
 <!-- end _includes/seo.html -->
 
 
-<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Louis Filstroff, researcher in statistical learning Feed">
 
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Louis Filstroff Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
@@ -75,9 +78,10 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
 
-<!--[if lte IE 9]>
+<!--[if IE]>
   <style>
     /* old IE unsupported flexbox fixes */
     .greedy-nav .site-title {
@@ -101,33 +105,39 @@
 
   </head>
 
-  <body class="layout--single">
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
 <![endif]-->
 
-    <div class="masthead">
+    
+
+<div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="http://localhost:4000/">Louis Filstroff, researcher in statistical learning</a>
-        <ul class="visible-links">
-          
-            
-            <li class="masthead__menu-item">
-              <a href="http://localhost:4000/publications/" >Publications</a>
-            </li>
-          
-            
-            <li class="masthead__menu-item">
-              <a href="http://localhost:4000/contact/" >Contact</a>
-            </li>
-          
-        </ul>
+        
+        <a class="site-title" href="/">
+          Louis Filstroff
+          <span class="site-subtitle">Researcher in statistical machine learning</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/publications/">Publications</a>
+            </li><li class="masthead__menu-item">
+              <a href="/contact/">Contact</a>
+            </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle Menu</span>
+          <span class="visually-hidden">Toggle menu</span>
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
@@ -135,6 +145,7 @@
     </div>
   </div>
 </div>
+
 
     <div class="initial-content">
       
@@ -147,14 +158,12 @@
   
 
 
-<div itemscope itemtype="http://schema.org/Person">
+<div itemscope itemtype="https://schema.org/Person">
 
   
     <div class="author__avatar">
       
-
-      
-        <img src="http://localhost:4000/assets/images/pp.jpg" alt="Louis Filstroff" itemprop="image">
+        <img src="/assets/images/pp.jpg" alt="Louis Filstroff" itemprop="image">
       
     </div>
   
@@ -164,9 +173,10 @@
       <h3 class="author__name" itemprop="name">Louis Filstroff</h3>
     
     
-      <p class="author__bio" itemprop="description">
-        Postdoctoral Researcher
-      </p>
+      <div class="author__bio" itemprop="description">
+        <p>Postdoctoral Researcher</p>
+
+      </div>
     
   </div>
 
@@ -174,13 +184,27 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       
-        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Helsinki</span>
         </li>
       
 
       
-
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <li><a href="https://github.com/lfilstro" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
+        
+          
+        
       
 
       
@@ -202,11 +226,7 @@
       
 
       
-        <li>
-          <a href="https://github.com/lfilstro" itemprop="sameAs">
-            <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
-          </a>
-        </li>
+
       
 
       
@@ -237,7 +257,7 @@
 
       <!--
   <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
       <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
     </a>
   </li>
@@ -250,7 +270,8 @@
   </div>
 
 
-  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Contact me">
     
     
@@ -259,19 +280,21 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Contact me
+          <h1 id="page-title" class="page__title" itemprop="headline">Contact me
 </h1>
           
+
+
         </header>
       
 
       <section class="page__content" itemprop="text">
         
-        <h3 id="e-mail">e-mail</h3>
-<p>firstname.lastname [at] aalto.fi <br /></p>
+        <h2 id="e-mail">e-mail</h2>
+<p>firstname.lastname [at] aalto.fi</p>
 
-<h3 id="physical-address">Physical address</h3>
-<p>Working from home!</p>
+<h2 id="physical-address">Physical address</h2>
+<p>Still working from home!</p>
 
         
       </section>
@@ -282,6 +305,8 @@
 
 
         
+
+
       </footer>
 
       
@@ -295,11 +320,12 @@
   
   
 </div>
+
     </div>
 
     
 
-    <div class="page__footer">
+    <div id="footer" class="page__footer">
       <footer>
         <!-- start custom footer snippets -->
 
@@ -309,14 +335,26 @@
     
       <li><strong>Follow:</strong></li>
     
+
     
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
     
+
     
-      <li><a href="https://github.com/lfilstro"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
     
-    
-    
-    <li><a href="http://localhost:4000/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -326,8 +364,9 @@
     </div>
 
     
-  <script src="http://localhost:4000/assets/js/main.min.js"></script>
-  <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+  <script src="/assets/js/main.min.js"></script>
+
+
 
 
 
