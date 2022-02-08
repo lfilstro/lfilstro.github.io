@@ -9,5 +9,7 @@ title: Contact me
 ## e-mail
 firstname.lastname [at] aalto.fi
 
-## Physical address
-Still working from home!
+## Physical address (I am mainly working from home)
+Office A343 <br/>
+Konemiehentie 2 (Tietotekniikan talo) <br/>
+02150 Espoo <br/>

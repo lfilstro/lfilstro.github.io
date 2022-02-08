@@ -8,6 +8,18 @@ title: Publications
 
 [Google scholar profile](https://scholar.google.fr/citations?user=fz8rPgUAAAAJ)
 
+## Submitted papers
+
+1. **L. Filstroff**, I. Sundin, P. Mikkola, A. Tiulpin, J. Kylmäoja, and S. Kaski <br/>
+"Targeted Active Learning for Bayesian Decision-Making" <br/>
+*Submitted*, May 2021. <br/>
+[arXiv](https://arxiv.org/abs/2106.04193)
+
+2. A. Bharti, **L. Filstroff**, and S. Kaski <br/>
+"Approximate Bayesian Computation with Domain Expert in the Loop" <br/>
+*Submitted*, Jan 2022. <br/>
+[arXiv](https://arxiv.org/abs/2201.12090)
+
 ## International journal papers
 
 1. A. Lumbreras, **L. Filstroff**, and C. Févotte <br/>
@@ -41,13 +53,6 @@ title: Publications
 *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
 (ECML-PKDD)*, 2019. <br/>
 [pdf](../assets/pdfs/xia2019ECMLPKDD.pdf)
-
-## Submitted papers
-
-1. **L. Filstroff**, I. Sundin, P. Mikkola, A. Tiulpin, J. Kylmäoja, and S. Kaski <br/>
-"Targeted Active Learning for Bayesian Decision-Making" <br/>
-*Submitted*, May 2021. <br/>
-[arXiv](https://arxiv.org/abs/2106.04193)
 
 ## Theses
 
