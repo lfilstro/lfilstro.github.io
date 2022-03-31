@@ -18,7 +18,7 @@ I graduated (M.Sc) from École Centrale de Lille and from Université Lille 1 in
 
 ## Research interests
 
-I am broadly interested in statistical machine learning. Below is a (non-exhaustive) list of more specific topics I have worked on:
+I am broadly interested in statistical learning and probabilistic machine learning. Below is a (non-exhaustive) list of more specific topics I have worked on:
 * Latent variable models, model-based approaches;
 * (Probabilistic) matrix factorization;
 * Bayesian modeling, computational statistics;
@@ -27,4 +27,4 @@ I am broadly interested in statistical machine learning. Below is a (non-exhaust
 
 ## Community involvement
 
-I have served as a reviewer for various international machine learning conferences, including ICASSP, MLSP, IJCAI, AISTATS, and ICML. I have also served as a reviewer for the journals IEEE TSP, IEEE PAMI, and Pattern Recognition Letters.
+I have served as a reviewer for various international machine learning conferences, including AISTATS, ICML, and IJCAI. I have also served as a reviewer for the journals IEEE TSP, IEEE PAMI, and JMLR.
