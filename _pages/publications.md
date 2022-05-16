@@ -17,8 +17,13 @@ title: Publications
 
 2. A. Bharti, **L. Filstroff**, and S. Kaski <br/>
 "Approximate Bayesian Computation with Domain Expert in the Loop" <br/>
-*Submitted*, Jan 2022. <br/>
+**Accepted for publication at ICML 2022** <br/>
 [arXiv](https://arxiv.org/abs/2201.12090)
+
+3. D. Huang, **L. Filstroff**, P. Mikkola, R. Zhang,, and S. Kaski <br/>
+"Bayesian Optimization Augmented with Actively Elicited Expert Knowledge" <br/>
+*Submitted*, Feb. 2022
+
 
 ## International journal papers
 
@@ -34,6 +39,7 @@ title: Publications
 [pdf](https://arxiv.org/abs/2006.12843),
 [code](https://github.com/lfilstro/TemporalNMF),
 [doi](https://doi.org/10.1109/TSP.2021.3060000)
+
 
 ## International conference papers
 
