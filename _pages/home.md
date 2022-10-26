@@ -8,17 +8,19 @@ title: Welcome!
 
 ## About me
 
-I am currently working as a postdoctoral researcher within the [PML](https://research.cs.aalto.fi/pml/) group of Aalto University, under the supervision of Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski). I joined the group in June 2020.
-
-Before that, I was a Ph.D. student within the [SC](http://sc.enseeiht.fr/) group of [IRIT](http://www.irit.fr) (Institut de Recherche en Informatique de Toulouse). I was working under the supervision of [Cédric Févotte](http://www.irit.fr/~Cedric.Fevotte), and was a member of the [FACTORY](http://projectfactory.irit.fr/index.html) ERC project. My defense took place on Nov. 13, 2019.
+I currently hold a temporary faculty position (in French, *ATER*) at [ENSAI](https://ensai.fr/), and am a member of the CREST laboratory (*Centre de recherche en économie et statistique*). I joined in September 2022.
 
 ## Short bio
 
-I graduated (M.Sc) from École Centrale de Lille and from Université Lille 1 in Sept. 2015. I then worked as a research engineer within the [SIGMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) group of [CRIStAL](https://www.cristal.univ-lille.fr), with [Patrick Bas](http://patrickbas.ec-lille.fr/Patrick_Bas_home_page/Home_Page.html). Finally, I was a Ph.D. student between Sept. 2016 and Nov. 2019.
+Before joining ENSAI, I worked for more than 2 years as a postdoctoral researcher within the [PML](https://research.cs.aalto.fi/pml/) group of Aalto University under the supervision of Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski).
+
+And before joining Aalto university, I was a Ph.D. student within the [SC](https://www.irit.fr/departement/signaux-images/sc/) group of [IRIT](https://www.irit.fr/) (*Institut de Recherche en Informatique de Toulouse*). I was working under the supervision of [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte), and my defense took place on Nov. 13, 2019.
+
+And even before that, I worked as a research engineer within the [SIGMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) group of [CRIStAL](https://www.cristal.univ-lille.fr) (*Centre de Recherche en Informatique, Signal et Automatique de Lille*), with [Patrick Bas](http://patrickbas.ec-lille.fr/Patrick_Bas_home_page/Home_Page.html).
 
 ## Research interests
 
-I am broadly interested in statistical learning and probabilistic machine learning. Below is a (non-exhaustive) list of more specific topics I have worked on:
+I am broadly interested in probabilistic machine learning and statistical learning. Below is a (non-exhaustive) list of more specific topics I have worked on:
 * Latent variable models, model-based approaches;
 * (Probabilistic) matrix factorization;
 * Bayesian modeling, computational statistics;

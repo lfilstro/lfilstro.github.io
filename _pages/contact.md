@@ -7,9 +7,9 @@ title: Contact me
 ---
 
 ## e-mail
-firstname.lastname [at] aalto.fi
+firstname.lastname [at] ensai.fr
 
-## Physical address (I am mainly working from home)
-Office A343 <br/>
-Konemiehentie 2 (Tietotekniikan talo) <br/>
-02150 Espoo <br/>
+## Physical address
+ENSAI, bureau 265 <br/>
+51 rue Blaise Pascal <br/>
+35170 Bruz <br/>

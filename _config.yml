@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 locale                   : "en-US"
 title                    : "Louis Filstroff"
 title_separator          : "-"
-subtitle                 : "Researcher in statistical machine learning"
+subtitle                 : "Researcher in probabilistic machine learning"
 name                     : "Louis Filstroff"
 description              : "Personal webpage of Louis Filstroff"
 url                      : "https://lfilstro.github.io"
@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Louis Filstroff"
   avatar           : "/assets/images/pp.jpg"
-  bio              : "Postdoctoral Researcher"
-  location         : "Helsinki"
+  bio              : "Enseignant-chercheur"
+  location         : "Rennes"
   email            :
   links:
     - label: "Email"

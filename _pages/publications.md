@@ -15,14 +15,15 @@ title: Publications
 *Submitted*, May 2021. <br/>
 [arXiv](https://arxiv.org/abs/2106.04193)
 
-2. A. Bharti, **L. Filstroff**, and S. Kaski <br/>
-"Approximate Bayesian Computation with Domain Expert in the Loop" <br/>
-**Accepted for publication at ICML 2022** <br/>
-[arXiv](https://arxiv.org/abs/2201.12090)
-
-3. D. Huang, **L. Filstroff**, P. Mikkola, R. Zhang,, and S. Kaski <br/>
+2. D. Huang, **L. Filstroff**, P. Mikkola, R. Zhang, and S. Kaski <br/>
 "Bayesian Optimization Augmented with Actively Elicited Expert Knowledge" <br/>
-*Submitted*, Feb. 2022
+*Submitted*, Feb. 2022. <br/>
+[arXiv](https://arxiv.org/abs/2208.08742)
+
+3. P. Mikkola, J. Martinelli, **L. Filstroff**, and S. Kaski <br/>
+"Multi-Fidelity Bayesian Optimization with Unreliable Information Sources" <br/>
+*Submitted*, Oct. 2022. <br/>
+[arXiv](https://arxiv.org/abs/2210.13937)
 
 
 ## International journal papers
@@ -59,6 +60,13 @@ title: Publications
 *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
 (ECML-PKDD)*, 2019. <br/>
 [pdf](../assets/pdfs/xia2019ECMLPKDD.pdf)
+
+4. A. Bharti, **L. Filstroff**, and S. Kaski <br/>
+"Approximate Bayesian Computation with Domain Expert in the Loop" <br/>
+*International Conference on Machine Learning (ICML)*, 2022. <br/>
+[pdf](https://arxiv.org/abs/2201.12090)
+[code](https://github.com/lfilstro/HITL-ABC)
+
 
 ## Theses
 
