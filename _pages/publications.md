@@ -22,7 +22,7 @@ title: Publications
 
 3. P. Mikkola, J. Martinelli, **L. Filstroff**, and S. Kaski <br/>
 "Multi-Fidelity Bayesian Optimization with Unreliable Information Sources" <br/>
-*Submitted*, Oct. 2022. <br/>
+*Accepted for publication at AISTATS 2023!*. <br/>
 [arXiv](https://arxiv.org/abs/2210.13937)
 
 
