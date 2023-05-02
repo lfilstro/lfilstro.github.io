@@ -20,11 +20,6 @@ title: Publications
 *Submitted*, Feb. 2022. <br/>
 [arXiv](https://arxiv.org/abs/2208.08742)
 
-3. P. Mikkola, J. Martinelli, **L. Filstroff**, and S. Kaski <br/>
-"Multi-Fidelity Bayesian Optimization with Unreliable Information Sources" <br/>
-*Accepted for publication at AISTATS 2023!*. <br/>
-[arXiv](https://arxiv.org/abs/2210.13937)
-
 
 ## International journal papers
 
@@ -32,6 +27,7 @@ title: Publications
 "Bayesian Mean-parameterized Nonnegative Binary Matrix Factorization" <br/>
 *Data Mining and Knowledge Discovery*, vol. 34, no. 6, 2020. <br/>
 [pdf](https://arxiv.org/abs/1812.06866),
+[code](https://github.com/alumbreras/NBMF),
 [doi](https://doi.org/10.1007/s10618-020-00712-w)
 
 2. **L. Filstroff**, O. Gouvert, C. Févotte, and O. Cappé <br/>
@@ -59,13 +55,28 @@ title: Publications
 "A Ranking Model Motivated by Nonnegative Matrix Factorization with Applications to Tennis Tournaments" <br/>
 *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
 (ECML-PKDD)*, 2019. <br/>
-[pdf](../assets/pdfs/xia2019ECMLPKDD.pdf)
+[pdf](../assets/pdfs/xia2019ECMLPKDD.pdf),
+[code](https://github.com/XiaRui1996/btl-nmf)
 
 4. A. Bharti, **L. Filstroff**, and S. Kaski <br/>
 "Approximate Bayesian Computation with Domain Expert in the Loop" <br/>
 *International Conference on Machine Learning (ICML)*, 2022. <br/>
-[pdf](https://arxiv.org/abs/2201.12090)
+[pdf](https://arxiv.org/abs/2201.12090),
 [code](https://github.com/lfilstro/HITL-ABC)
+
+5. P. Mikkola, J. Martinelli, **L. Filstroff**, and S. Kaski <br/>
+"Multi-Fidelity Bayesian Optimization with Unreliable Information Sources" <br/>
+*International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2023. <br/>
+[pdf](https://arxiv.org/abs/2210.13937),
+[code](https://github.com/AaltoPML/rMFBO)
+
+
+## Workshop papers
+
+1. A. Tiihonen, **L. Filstroff**, P. Mikkola, E. Lehto, S. Kaski, M. Todorović, and P. Rinke <br/>
+"More trustworthy Bayesian optimization of materials properties by adding humans into the loop" <br/>
+*AI for Accelerated Materials Design NeurIPS 2022 Workshop* <br/>
+[pdf](https://openreview.net/pdf?id=JQSzcd_Zc62)
 
 
 ## Theses
