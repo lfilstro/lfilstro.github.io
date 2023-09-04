@@ -8,15 +8,19 @@ title: Welcome!
 
 ## About me
 
-I currently hold a temporary faculty position (in French, *ATER*) at [ENSAI](https://ensai.fr/), and am a member of the CREST laboratory (*Centre de recherche en économie et statistique*). I joined in September 2022.
+I am currently a *maître de conférences* (French permanent position) at [Centrale Lille](https://centralelille.fr/), and am working within the [SIGMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) group of the [CRIStAL](https://www.cristal.univ-lille.fr) lab (*Centre de Recherche en Informatique, Signal et Automatique de Lille*).
 
-## Short bio
 
-Before joining ENSAI, I worked for more than 2 years as a postdoctoral researcher within the [PML](https://research.cs.aalto.fi/pml/) group of Aalto University under the supervision of Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski).
+## Short résumé
 
-And before joining Aalto university, I was a Ph.D. student within the [SC](https://www.irit.fr/departement/signaux-images/sc/) group of [IRIT](https://www.irit.fr/) (*Institut de Recherche en Informatique de Toulouse*). I was working under the supervision of [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte), and my defense took place on Nov. 13, 2019.
+2016 : Research engineer at [CRIStAL](https://www.cristal.univ-lille.fr), working with [Patrick Bas](http://patrickbas.ec-lille.fr/Patrick_Bas_home_page/Home_Page.html).
 
-And even before that, I worked as a research engineer within the [SIGMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) group of [CRIStAL](https://www.cristal.univ-lille.fr) (*Centre de Recherche en Informatique, Signal et Automatique de Lille*), with [Patrick Bas](http://patrickbas.ec-lille.fr/Patrick_Bas_home_page/Home_Page.html).
+2016-2019 : Ph.D. student within the [SC](https://www.irit.fr/departement/signaux-images/sc/) group of [IRIT](https://www.irit.fr/) (*Institut de Recherche en Informatique de Toulouse*), working under the supervision of [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte).
+
+2020-2022 : Postdoctoral researcher within the [PML](https://research.cs.aalto.fi/pml/) group of Aalto University, working under the supervision of Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski).
+
+2022-2023 : Temporary faculty position (in French, *ATER*) at [ENSAI](https://ensai.fr/) and CREST (*Centre de recherche en économie et statistique*).
+
 
 ## Research interests
 

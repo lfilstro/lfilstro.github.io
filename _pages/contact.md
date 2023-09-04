@@ -7,9 +7,11 @@ title: Contact me
 ---
 
 ## e-mail
-firstname.lastname [at] ensai.fr
+firstname.lastname [at] centralelille.fr
 
 ## Physical address
-ENSAI, bureau 265 <br/>
-51 rue Blaise Pascal <br/>
-35170 Bruz <br/>
+
+Bâtiment ESPRIT, bureau S2.47 <br/>
+Avenue Paul Langevin <br/>
+59650 Villeneuve-d'Ascq <br/>
+France <br/>
