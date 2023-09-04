@@ -11,7 +11,7 @@ firstname.lastname [at] centralelille.fr
 
 ## Physical address
 
-Bâtiment ESPRIT, bureau S2.47 <br/>
+Bâtiment ESPRIT, office S2.47 <br/>
 Avenue Paul Langevin <br/>
 59650 Villeneuve-d'Ascq <br/>
 France <br/>
