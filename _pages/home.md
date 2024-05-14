@@ -19,7 +19,7 @@ I am currently a *maître de conférences* (French permanent position) at [Centr
 
 2020-2022 : Postdoctoral researcher within the [PML](https://research.cs.aalto.fi/pml/) group of Aalto University, working under the supervision of Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski).
 
-2022-2023 : Temporary faculty position (in French, *ATER*) at [ENSAI](https://ensai.fr/) and CREST (*Centre de recherche en économie et statistique*).
+2022-2023 : Temporary faculty position (in French, *ATER*) at [ENSAI](https://ensai.fr/) and [CREST](https://crest.science/) (*Centre de recherche en économie et statistique*).
 
 
 ## Research interests

@@ -18,7 +18,8 @@ title: Publications
 2. D. Huang, **L. Filstroff**, P. Mikkola, R. Zhang, and S. Kaski <br/>
 "Bayesian Optimization Augmented with Actively Elicited Expert Knowledge" <br/>
 *Submitted*, Feb. 2022. <br/>
-[arXiv](https://arxiv.org/abs/2208.08742)
+[arXiv](https://arxiv.org/abs/2208.08742) <br/>
+(There is also a workshop version of this work, see below)
 
 
 ## International journal papers
@@ -70,6 +71,13 @@ title: Publications
 [pdf](https://arxiv.org/abs/2210.13937),
 [code](https://github.com/AaltoPML/rMFBO)
 
+6. J. Martinelli, A. Bharti, A. Tiihonen, S. T. John, **L. Filstroff**, S. J. Sloman, P. Rinke, and S. Kaski <br/>
+"Learning Relevant Contextual Variables Within Bayesian Optimization" <br/>
+*Conference on Uncertainty in Artificial Intelligence (UAI)*, 2024. <br/>
+[pdf](https://arxiv.org/abs/2305.14120),
+code coming soon <br/>
+(There is also a workshop version of this work, see below)
+
 
 ## Workshop papers
 
@@ -77,6 +85,16 @@ title: Publications
 "More trustworthy Bayesian optimization of materials properties by adding humans into the loop" <br/>
 *AI for Accelerated Materials Design NeurIPS 2022 Workshop* <br/>
 [pdf](https://openreview.net/pdf?id=JQSzcd_Zc62)
+
+2. D. Huang, **L. Filstroff**, P. Mikkola, R. Zheng, M. Todorović, and S. Kaski <br/>
+"Augmenting Bayesian Optimization with Preference-based Expert Feedback" <br/>
+*The Many Facets of Preference Learning ICML 2023 Workshop* <br/>
+[pdf](https://openreview.net/pdf?id=OJXfwj2hiP)
+
+3. J. Martinelli, A. Bharti, A. Tiihonen, **L. Filstroff**, S. T. John, S. J. Sloman, P. Rinke, and S. Kaski <br/>
+"Learning relevant contextual variables within Bayesian optimization" <br/>
+*Adaptive Experimental Design and Active Learning in the Real World NeurIPS 2023 Workshop* <br/>
+[pdf](https://openreview.net/pdf?id=OWz37WOETP)
 
 
 ## Theses
