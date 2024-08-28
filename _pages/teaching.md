@@ -14,4 +14,5 @@ If you are one of my students, and are looking for teaching material, everything
 * **G3 Science des Données** - Introduction à l'Estimation Statistique, Estimation Statistique Avancée
 * **G3 Industrie 4.0** - Machine Learning
 * **IE5 Innovation Industrielle** - Analyse de Données
+* **M1 Data Science** - Machine Learning 1
 * **M2 Data Science** - Bayesian Learning
