@@ -11,8 +11,8 @@ This page is merely a recap of the courses I am currently teaching at Centrale L
 If you are one of my students, and are looking for teaching material, everything is available on Moodle.
 
 * **G1 (Tronc commun)** - Traitement du Signal
-* **G3 Science des Données** - Introduction à l'Estimation Statistique, Estimation Statistique Avancée
+* **G3 Science des Données** - Introduction à l'Estimation Statistique, Estimation Statistique Avancée, Décision & Apprentissage (with P. Chainais and P.-A. Thouvenin)
 * **G3 Industrie 4.0** - Machine Learning
 * **IE5 Innovation Industrielle** - Analyse de Données
-* **M1 Data Science** - Machine Learning 1
+* **M1 Data Science** - Machine Learning 1 (with P.-A. Thouvenin)
 * **M2 Data Science** - Bayesian Learning

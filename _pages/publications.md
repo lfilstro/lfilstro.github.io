@@ -10,12 +10,7 @@ title: Publications
 
 ## Submitted papers
 
-1. **L. Filstroff**, I. Sundin, P. Mikkola, A. Tiulpin, J. Kylmäoja, and S. Kaski <br/>
-"Targeted Active Learning for Bayesian Decision-Making" <br/>
-*Submitted*, May 2021. <br/>
-[arXiv](https://arxiv.org/abs/2106.04193)
-
-2. D. Huang, **L. Filstroff**, P. Mikkola, R. Zhang, and S. Kaski <br/>
+1. D. Huang, **L. Filstroff**, P. Mikkola, R. Zhang, and S. Kaski <br/>
 "Bayesian Optimization Augmented with Actively Elicited Expert Knowledge" <br/>
 *Submitted*, Feb. 2022. <br/>
 [arXiv](https://arxiv.org/abs/2208.08742) <br/>
@@ -37,6 +32,11 @@ title: Publications
 [pdf](https://arxiv.org/abs/2006.12843),
 [code](https://github.com/lfilstro/TemporalNMF),
 [doi](https://doi.org/10.1109/TSP.2021.3060000)
+
+3. **L. Filstroff**, I. Sundin, P. Mikkola, A. Tiulpin, J. Kylmäoja, and S. Kaski <br/>
+"Targeted Active Learning for Bayesian Decision-Making" <br/>
+*Transactions on Machine Learning Research*, 2024. <br/>
+[pdf](https://arxiv.org/abs/2106.04193)
 
 
 ## International conference papers

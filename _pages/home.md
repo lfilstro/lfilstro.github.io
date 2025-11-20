@@ -8,7 +8,7 @@ title: Welcome!
 
 ## About me
 
-I am currently a *maître de conférences* (French permanent position) at [Centrale Lille](https://centralelille.fr/), and am working within the [SIGMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) group of the [CRIStAL](https://www.cristal.univ-lille.fr) lab (*Centre de Recherche en Informatique, Signal et Automatique de Lille*).
+I am currently a *maître de conférences* (French permanent position) at [Centrale Lille Institut](https://centralelille.fr/), and am working within the [SIGMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) group of the [CRIStAL](https://www.cristal.univ-lille.fr) lab (*Centre de Recherche en Informatique, Signal et Automatique de Lille*).
 
 
 ## Short résumé
@@ -25,10 +25,10 @@ I am currently a *maître de conférences* (French permanent position) at [Centr
 ## Research interests
 
 I am broadly interested in probabilistic machine learning and statistical learning. Below is a (non-exhaustive) list of more specific topics I have worked on:
-* Latent variable models, model-based approaches;
-* (Probabilistic) matrix factorization;
 * Bayesian modeling, computational statistics;
 * Active learning, Bayesian experimental design, Bayesian optimization;
+* (Probabilistic) matrix factorization;
+* Latent variable models, model-based approaches;
 * Human-in-the-loop machine learning.
 
 ## Community involvement
