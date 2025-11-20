@@ -8,16 +8,16 @@ title: Welcome!
 
 ## About me
 
-I am currently a *maître de conférences* (French permanent position) at [Centrale Lille Institut](https://centralelille.fr/), and am working within the [SIGMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) group of the [CRIStAL](https://www.cristal.univ-lille.fr) lab (*Centre de Recherche en Informatique, Signal et Automatique de Lille*).
+I am currently a *maître de conférences* (French permanent position) at [Centrale Lille Institut](https://centralelille.fr/), and am working within the [SIGMA](https://www.cristal.univ-lille.fr/equipes/sigma/) group of the [CRIStAL](https://www.cristal.univ-lille.fr/) lab (*Centre de Recherche en Informatique, Signal et Automatique de Lille*).
 
 
 ## Short résumé
 
-2016 : Research engineer at [CRIStAL](https://www.cristal.univ-lille.fr), working with [Patrick Bas](http://patrickbas.ec-lille.fr/Patrick_Bas_home_page/Home_Page.html).
+2016 : Research engineer at [CRIStAL](https://www.cristal.univ-lille.fr), working with [Patrick Bas](https://scholar.google.com/citations?user=OgaFhnEAAAAJ&hl=fr).
 
 2016-2019 : Ph.D. student within the [SC](https://www.irit.fr/departement/signaux-images/sc/) group of [IRIT](https://www.irit.fr/) (*Institut de Recherche en Informatique de Toulouse*), working under the supervision of [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte).
 
-2020-2022 : Postdoctoral researcher within the [PML](https://research.cs.aalto.fi/pml/) group of Aalto University, working under the supervision of Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski).
+2020-2022 : Postdoctoral researcher within the [PML](https://research.cs.aalto.fi/pml/) group of Aalto University, working under the supervision of Prof. [Samuel Kaski](https://kaski-lab.com/).
 
 2022-2023 : Temporary faculty position (in French, *ATER*) at [ENSAI](https://ensai.fr/) and [CREST](https://crest.science/) (*Centre de recherche en économie et statistique*).
 
