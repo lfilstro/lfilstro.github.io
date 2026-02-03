@@ -8,13 +8,13 @@ title: Publications
 
 [Google scholar profile](https://scholar.google.fr/citations?user=fz8rPgUAAAAJ)
 
-## Submitted papers
+## Preprints
 
 1. D. Huang, **L. Filstroff**, P. Mikkola, R. Zhang, and S. Kaski <br/>
 "Bayesian Optimization Augmented with Actively Elicited Expert Knowledge" <br/>
 *Submitted*, Feb. 2022. <br/>
 [arXiv](https://arxiv.org/abs/2208.08742) <br/>
-(There is also a workshop version of this work, see below)
+(There is also a workshop version of this work, with code, see below)
 
 
 ## International journal papers
@@ -75,7 +75,7 @@ title: Publications
 "Learning Relevant Contextual Variables Within Bayesian Optimization" <br/>
 *Conference on Uncertainty in Artificial Intelligence (UAI)*, 2024. <br/>
 [pdf](https://arxiv.org/abs/2305.14120),
-code coming soon <br/>
+[code](https://github.com/julienmartinelli/SADCBO) <br/>
 (There is also a workshop version of this work, see below)
 
 
@@ -89,7 +89,8 @@ code coming soon <br/>
 2. D. Huang, **L. Filstroff**, P. Mikkola, R. Zheng, M. Todorović, and S. Kaski <br/>
 "Augmenting Bayesian Optimization with Preference-based Expert Feedback" <br/>
 *The Many Facets of Preference Learning ICML 2023 Workshop* <br/>
-[pdf](https://openreview.net/pdf?id=OJXfwj2hiP)
+[pdf](https://openreview.net/pdf?id=OJXfwj2hiP),
+[code](https://github.com/huangdaolang/pbnn-bo)
 
 3. J. Martinelli, A. Bharti, A. Tiihonen, **L. Filstroff**, S. T. John, S. J. Sloman, P. Rinke, and S. Kaski <br/>
 "Learning relevant contextual variables within Bayesian optimization" <br/>
@@ -102,4 +103,4 @@ code coming soon <br/>
 1. **L. Filstroff** <br/>
 "Contributions to probabilistic non-negative matrix factorization - Maximum marginal likelihood estimation and Markovian temporal models" <br/>
 Ph.D. Thesis, Institut National Polytechnique de Toulouse, 2019. <br/>
-[pdf](https://oatao.univ-toulouse.fr/25586/1/Filstroff_Louis.pdf)
+[pdf](https://hal.science/tel-04169894v1)
